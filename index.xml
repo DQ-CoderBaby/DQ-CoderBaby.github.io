@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Blog</title><link>https://dq-coderbaby.github.io/</link><description>Recent content on My Blog</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://dq-coderbaby.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 22:45:40 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Macos Post</title>
+      <link>http://localhost:1313/posts/my-macos-post/</link>
+      <pubDate>Mon, 09 Dec 2024 22:45:40 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-macos-post/</guid>
+      <description>&lt;h3 class=&#34;heading&#34; id=&#34;macos基础使用&#34;&gt;&#xA;  MacOS基础使用&#xA;  &lt;a href=&#34;#macos%e5%9f%ba%e7%a1%80%e4%bd%bf%e7%94%a8&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;探索MacOS，苹果的操作系统，是一次令人兴奋的旅程。从你打开Mac的那一刻起，你就会感受到它的直观和优雅。MacOS以其简洁的用户界面、强大的功能和出色的性能而闻名。以下是一些基础使用技巧，帮助你快速上手：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
